@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joaco\\source\\repos\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\Joaco\\source\\repos\\tps_laboratorio_ii\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joaco\\source\\repos\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Joaco\\source\\repos\\tps_laboratorio_ii\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joaco\\source\\repos\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Joaco\\source\\repos\\tps_laboratorio_ii\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Joaco\\source\\repos\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Joaco\\source\\repos\\tps_laboratorio_ii\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Joaco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joaco\\source\\repos\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Joaco\\source\\repos\\tps_laboratorio_ii\\TP1\\Garcia.Joaquin.2A.TP1\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
