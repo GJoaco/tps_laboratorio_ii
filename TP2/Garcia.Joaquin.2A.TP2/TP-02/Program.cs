@@ -1,9 +1,9 @@
-﻿using System;
+﻿using Entidades;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Entidades;
 
 namespace TP_02_2018
 {
@@ -16,7 +16,8 @@ namespace TP_02_2018
             Console.SetWindowSize(Console.LargestWindowWidth / 2, Console.LargestWindowHeight - 2);
 
             // Nombre del alumno
-            Console.Title = "";
+            Console.Title = "Garcia Joaquin";
+
             Taller taller = new Taller(6);
 
             Ciclomotor c1 = new Ciclomotor(Vehiculo.EMarca.BMW, "ASD012", ConsoleColor.Black);
@@ -57,19 +58,19 @@ namespace TP_02_2018
             taller += c2;
 
             // Muestro solo Moto
-            Console.WriteLine(taller.Listar(taller, Taller.ETipo.Cilomotor));
+            Console.WriteLine(Taller.Listar(taller, Taller.ETipo.Ciclomotor));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
 
             // Muestro solo Automovil
-            Console.WriteLine(taller.Listar(taller, Taller.ETipo.Sedan));
+            Console.WriteLine(Taller.Listar(taller, Taller.ETipo.Sedan));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
 
             // Muestro solo Camioneta
-            Console.WriteLine(taller.Listar(taller, Taller.ETipo.SUV));
+            Console.WriteLine(Taller.Listar(taller, Taller.ETipo.SUV));
             Console.WriteLine("<-------------PRESIONE UNA TECLA PARA SALIR------------->");
             Console.ReadKey();
         }

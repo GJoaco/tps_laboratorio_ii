@@ -51,3 +51,13 @@ C:\Users\Joaco\Source\Repos\tps_laboratorio_iiprueba\TP2\Garcia.Joaquin.2A.TP2\T
 C:\Users\Joaco\Source\Repos\tps_laboratorio_iiprueba\TP2\Garcia.Joaquin.2A.TP2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Joaco\Source\Repos\tps_laboratorio_iiprueba\TP2\Garcia.Joaquin.2A.TP2\TP-02\obj\Debug\TP-02.exe
 C:\Users\Joaco\Source\Repos\tps_laboratorio_iiprueba\TP2\Garcia.Joaquin.2A.TP2\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\bin\Debug\TP-02.exe
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\bin\Debug\Entidades.dll
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\obj\Debug\TP-02.exe
+C:\Users\Joaco\Source\Repos\tps_laboratorio_ii\TP2\Garcia.Joaquin.2A.TP2\TP-02\obj\Debug\TP-02.pdb
